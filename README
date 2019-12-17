@@ -1,0 +1,27 @@
+Saqib Aziz Dhuka
+301338669
+CMPT361
+ASSIGNMENT 2 - 3D Tetris
+**********************************************************************************************************************************
+
+steps NOT completed:
+1) The timer is not there and so the game does not end unless q is pressed.
+
+**********************************************************************************************************************************
+HOW TO PLAY:
+
+-> Use Ctrl - Right arrow key to rotate camera in the clockwise direction.
+-> Use Ctrl - Left arrow key to rotate camera in the anti-clockwise direction.
+-> Use Up arrow key to rotate the shape on the arm.
+-> Use Spacebar key to put the tile onto the 3D grid.
+-> The tile floats about its place and does not move downwards when placed.
+-> You cannot put the tile outside the grid or onto a tile that is already placed.
+-> Grey tiled piece indicates an invalid position to put the tile in.
+-> Press r to restart and q to quit the game.
+
+					:D ENJOY!!! :D 
+**********************************************************************************************************************************
+
+
+
+
